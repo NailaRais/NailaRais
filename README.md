@@ -123,9 +123,9 @@ plt.show()
 <h2 align="center">📬 Get in Touch 📬</h2>
 <p align="center">Let's connect! I’m open to collaborations, new opportunities, or just a friendly chat.</p>
 <ul align="center">
-    <li><strong>Email:</strong> <a href="mailto:naila.rais@sinclair.edu">naila.rais@sinclair.edu</a></li>
+    <li><strong>Email:</strong> <a href="mailto:nailarais@uppowerbiclub.com">nailarais@uppowerbiclub.com</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/naila-rais">Naila Rais</a></li>
-    <li><strong>Website:</strong> <a href="https://pwedclub.podia.com/">Pwed Club</a></li>
+    <li><strong>Website:</strong> <a href="https://www.meetup.com/up-powerbiclub">Club</a></li>
 </ul>
 
 <hr>
